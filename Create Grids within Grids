@@ -1,0 +1,1 @@
+<style>.item3 {grid-template-columns: auto 1fr; display: grid;}</style>
